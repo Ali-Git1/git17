@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA914C8-8CA2-45AD-A240-2F361BBFD3D1}|ConsoleApp18\\ConsoleApp18.csproj|c:\\users\\elvin\\source\\repos\\consoleapp18\\consoleapp18\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA914C8-8CA2-45AD-A240-2F361BBFD3D1}|ConsoleApp18\\ConsoleApp18.csproj|solutionrelative:consoleapp18\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA914C8-8CA2-45AD-A240-2F361BBFD3D1}|ConsoleApp18\\ConsoleApp18.csproj|c:\\users\\elvin\\source\\repos\\consoleapp18\\consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA914C8-8CA2-45AD-A240-2F361BBFD3D1}|ConsoleApp18\\ConsoleApp18.csproj|solutionrelative:consoleapp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBA914C8-8CA2-45AD-A240-2F361BBFD3D1}|ConsoleApp18\\ConsoleApp18.csproj|c:\\users\\elvin\\source\\repos\\consoleapp18\\consoleapp18\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA914C8-8CA2-45AD-A240-2F361BBFD3D1}|ConsoleApp18\\ConsoleApp18.csproj|solutionrelative:consoleapp18\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\ConsoleApp18\\IAccount.cs",
+              "RelativeDocumentMoniker": "ConsoleApp18\\IAccount.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\ConsoleApp18\\IAccount.cs",
+              "RelativeToolTip": "ConsoleApp18\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:09:50.201Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\ConsoleApp18\\User.cs",
+              "RelativeDocumentMoniker": "ConsoleApp18\\User.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\ConsoleApp18\\User.cs",
+              "RelativeToolTip": "ConsoleApp18\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:11:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\ConsoleApp18\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp18\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp18\\ConsoleApp18\\Program.cs",
+              "RelativeToolTip": "ConsoleApp18\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:08:22.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
